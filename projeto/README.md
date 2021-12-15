@@ -1,17 +1,24 @@
-# projeto
+# Projeto meu TCC
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Protótipo de software de consulta de preços de sementes e prospecção de vendas
 
-A few resources to get you started if this is your first Flutter project:
+Neste projeto foi utilizado o framework Flutter, com linguagem de programação Dart, e banco de dados Firebase.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* O aplicativo contém uma tela inicial de produtos.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Outra tela que compara os preços dos produtos nas agropecuárias cadastradas no sistema.
+  
+* Uma tela com o nome das agropecuárias onde clicando em cima é direcionado a uma tela com algumas opções de contato, como telefone, whatsApp, e-mail e site.
+
+# Acessando
+
+Para emular o projeto deve-se ter o Flutter instalado, Dart, e um emulador Android.
+
+Todos os pacotes são colocados no main.dart e acessados através de rotas.
+
+* [main.dart](#main.dart)
+  
+
 
